@@ -50,10 +50,12 @@ This project is built using **Python** and **Jupyter Notebook**, focusing on ext
 ## 🚀 How to Run
 
 1. Clone the repository:
-git clone https://github.com/KaranTejwani/DataAnalysis.git
+   ```bash
+   git clone https://github.com/KaranTejwani/DataAnalysis.git
 
-2. Open the project in Jupyter Notebook:
-cd DataAnalysis
-jupyter notebook
+3. Open the project in Jupyter Notebook:
+   ```bash
+   cd DataAnalysis
+   jupyter notebook
 
-3. Run `Project.ipynb` to view the full analysis.
+5. Run `Project.ipynb` to view the full analysis.
